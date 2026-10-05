@@ -360,6 +360,12 @@
     <game id="batlgr2a">
       <wheel rotation="270"/>
     </game>
+    <game id="batlgr3" name="Battle Gear 3 (Ver.2.01A)">
+      <wheel rotation="270"/>
+    </game>
+    <game id="batlgr3t" name="Battle Gear 3 Tuned">
+      <wheel rotation="270"/>
+    </game>
     <game id="Batman">
       <wheel/>
     </game>
@@ -1190,6 +1196,8 @@
     <game id="dpatrola">
       <gun/>
     </game>
+    <game id="dragchro" name="Dragon Chronicle Online: Great Sky Battle">
+    </game>
     <game id="dragngun">
       <gun/>
     </game>
@@ -1204,6 +1212,8 @@
     </game>
     <game id="driveyes">
       <wheel rotation="270"/>
+    </game>
+    <game id="druagaol" name="Druaga Online: The Story of Aon">
     </game>
     <game id="drugwars" name="Crime Patrol 2: Drug Wars">
       <gun/>
@@ -1880,6 +1890,8 @@
     <game id="GundamSpiritsOfZeon">
       <gun/>
     </game>
+    <game id="gundzft2" name="Gundam Seed Destiny: Federation vs. Z.A.F.T. II">
+    </game>
     <game id="gunhard">
       <gun/>
     </game>
@@ -2176,6 +2188,8 @@
     </game>
     <game id="ID8">
       <wheel/>
+    </game>
+    <game id="idolmstr" name="The Idolmaster">
     </game>
     <game id="IDZ">
       <wheel/>
@@ -2766,6 +2780,9 @@
     </game>
     <game id="MotoGP">
       <wheel/>
+    </game>
+    <game id="motogp">
+      <wheel rotation="270"/>
     </game>
     <game id="motoraid">
       <wheel rotation="270"/>
@@ -4320,6 +4337,20 @@
     <game id="tacscan">
       <spinner/>
     </game>
+    <game id="taiko11a" name="Taiko no Tatsujin 11 Asian Edition">
+    </game>
+    <game id="taiko11t" name="Taiko no Tatsujin 11 Asian Edition (Taiwan)">
+    </game>
+    <game id="taiko12" name="Taiko no Tatsujin 12">
+    </game>
+    <game id="taiko12a" name="Taiko no Tatsujin 12 Asian Edition">
+    </game>
+    <game id="taiko12t" name="Taiko no Tatsujin 12 Asian Edition (Taiwan)">
+    </game>
+    <game id="taiko13" name="Taiko no Tatsujin 13">
+    </game>
+    <game id="taiko14" name="Taiko no Tatsujin 14">
+    </game>
     <game id="targeth">
       <gun/>
     </game>
@@ -4349,6 +4380,8 @@
     </game>
     <game id="tdfever2b">
       <spinner/>
+    </game>
+    <game id="techbeat" name="Technic Beat">
     </game>
     <game id="techbowl">
       <trackball/>
@@ -4497,7 +4530,13 @@
     <game id="timecrs3e">
       <gun/>
     </game>
+    <game id="timecrs3u">
+      <gun/>
+    </game>
     <game id="timecrs4">
+      <gun/>
+    </game>
+    <game id="timecrs4j">
       <gun/>
     </game>
     <game id="timecrsa">
